@@ -8,7 +8,7 @@ Step 4: Sentiment analysis of the customer's comment
 Step 5: Generate an email to be sent to the customer.
 
 Output
-![Choose Language](./images/result 1.png)
-![Customer Comment Translation](./images/result 2.png)
-![Customer Comment and Email Translation](./images/result 3.png)
+![Choose Language](./images/result1.png)
+![Customer Comment Translation](./images/result2.png)
+![Customer Comment and Email Translation](./images/result3.png)
 
