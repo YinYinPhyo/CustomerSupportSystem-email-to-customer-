@@ -8,7 +8,6 @@ https://github.com/YinYinPhyo/CustomerSupportSystem-email-to-customer-?tab=readm
 Google Slide (PDF)
 https://drive.google.com/file/d/15uyTaO2yJy_7Dcj51RCnCu6Ru3YPMoBO/view?usp=sharing
 
-![image](https://github.com/user-attachments/assets/6642457c-4c99-4582-aa80-744c5ae92c51)
 
 
 STEPS INVOLVED IN DEVELOPMENT:
@@ -27,7 +26,6 @@ o	Since it gave an output with more than 100 words, I just wanted to know if the
 
 •	STEP 5: Generate email.
 o	Based on all the comment, subject of email, sentiment and summary, expect to generate an email in the selected language by the user.
-![image](https://github.com/user-attachments/assets/68c70769-2240-4510-af3d-3969f99648f7)
 
 
 Output
