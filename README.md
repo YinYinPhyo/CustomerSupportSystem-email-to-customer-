@@ -10,7 +10,7 @@ https://drive.google.com/file/d/15uyTaO2yJy_7Dcj51RCnCu6Ru3YPMoBO/view?usp=shari
 
 
 
-STEPS INVOLVED IN DEVELOPMENT:
+## STEPS INVOLVED IN DEVELOPMENT:
 •	STEP 1: Generate customer’s comment.
 o	An input of the list of products is given and expect a response of about 100 words as a customer comment.
 
